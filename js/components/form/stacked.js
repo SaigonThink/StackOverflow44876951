@@ -49,6 +49,22 @@ class Stacked extends Component {
               <Label>Password</Label>
               <Input />
             </Item>
+            <Item stackedLabel last>
+              <Label>Hello</Label>
+              <Input />
+            </Item>
+            <Item stackedLabel last>
+              <Label>Ha</Label>
+              <Input />
+            </Item>
+            <Item stackedLabel last>
+              <Label>OOOK</Label>
+              <Input />
+            </Item>
+            <Item stackedLabel last>
+              <Label>YEP</Label>
+              <Input />
+            </Item>
           </Form>
           <Button block style={{ margin: 15, marginTop: 50 }}>
             <Text>Sign In</Text>

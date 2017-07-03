@@ -1,3 +1,13 @@
+# Fork of this project to answer a question on StackOverflow
+
+- https://stackoverflow.com/posts/44876951
+
+You can try it on https://expo.io/@community/native-base-kitchen-sink
+
+Clone the project and run `npm install` and then `npm run ios` or `npm run android` to try it out.
+
+-------------------------------------------------------------------
+
 # NativeBase KitchenSink v2.0
 An example app with all the UI components of NativeBase
 

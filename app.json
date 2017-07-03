@@ -1,4 +1,14 @@
 {
   "name": "NativebaseKitchenSink",
-  "displayName": "NativebaseKitchenSink"
+  "displayName": "NativebaseKitchenSink",
+  "expo": {
+    "name": "NativeBase Kitchen Sink",
+    "description": "Example of NativeBase components",
+    "slug": "native-base-kitchen-sink",
+    "version": "1.0.0",
+    "sdkVersion": "18.0.0",
+    "androidStatusBar": {
+      "backgroundColor": "#000000"
+    }
+  }
 }
